@@ -103,7 +103,7 @@ You lose!
 
 ## 📌 Author
 
-Your Name
+Bairaboina Ruthwik
 
 ---
 
